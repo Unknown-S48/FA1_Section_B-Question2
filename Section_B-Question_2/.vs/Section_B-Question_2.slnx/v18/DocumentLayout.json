@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unknown\\Documents\\GitHub\\FA1_Section_B-Question2\\Section_B-Question_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D725B61-A6EC-4E97-AA6A-DEB21637D3D6}|Section_B-Question_2\\Section_B-Question_2.csproj|c:\\users\\unknown\\documents\\github\\fa1_section_b-question2\\section_b-question_2\\section_b-question_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D725B61-A6EC-4E97-AA6A-DEB21637D3D6}|Section_B-Question_2\\Section_B-Question_2.csproj|solutionrelative:section_b-question_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Unknown\\Documents\\GitHub\\FA1_Section_B-Question2\\Section_B-Question_2\\Section_B-Question_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Section_B-Question_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Unknown\\Documents\\GitHub\\FA1_Section_B-Question2\\Section_B-Question_2\\Section_B-Question_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Section_B-Question_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:06:24.63Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

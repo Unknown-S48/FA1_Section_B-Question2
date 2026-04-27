@@ -1,0 +1,11 @@
+//Wian Sandenbergh
+namespace Section_B_Question_2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
